@@ -1,0 +1,2 @@
+# GitReadMe
+Markdown syntax details
