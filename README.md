@@ -1,7 +1,29 @@
-# GitReadMe
-Markdown syntax details
+文本显示
+==
+大标题
+==
+中标题
+--
+# ‘# ’ 一级标题
+## ‘## ’ 二级标题
+### ‘### ’ 三级标题
 
-## こんにちは
 
-## Creating a new branch is quick.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    
+[回到顶部](#文本显示)
