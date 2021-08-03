@@ -72,11 +72,11 @@ npm package manage(node_modules)
     * glob-watcher@5.0.5 (latest)
       * chokidar@2.1.8 (deprecated): watch filesystem directories for events - (for win, linux, mac)
          * fsevents@1.2.13 (deprecated) - (for mac)
-* gulp-concat@2.5.2 => @2.6.1 (now)
+* gulp-concat@2.5.2 => @2.6.1 (now) 🟤
     * gulp-util@3.0.8 (deprecated)
-* gulp-uglify@1.2.0 => @3.0.2 (now)
+* gulp-uglify@1.2.0 => @3.0.2 (now) 🟤
     * gulp-util@3.0.8 (deprecated)
-* gulp-sourcemaps@1.5.2 => @3.0.0 (now)
+* gulp-sourcemaps@1.5.2 => @3.0.0 (now) 🟤
     * natives@1.1.6 (deprecated)
     * urix@0.1.0 (deprecated)
     * resolve-url@0.2.1 (deprecated)
