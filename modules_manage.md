@@ -42,7 +42,7 @@ npm package manage(node_modules)
 |🟤 gulp-sourcemaps|1.5.2(deprecated)|1.12.1|3.0.0|3.0.0|
 |🟤 gulp-uglify|1.2.0(deprecated)|1.5.4|3.0.2|3.0.2|
 |🔴 ~~gulp-uglifyjs~~|0.6.2(delete)|0.6.2|-|0.6.2|
-<br>
+
 **Note:** 
 
 >  ✅ - 同じバージョンのまま         
