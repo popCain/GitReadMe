@@ -70,17 +70,17 @@ npm package manage(node_modules)
     * mkdirp@0.5.1 (deprecated:x:)    
 * gulp@4.0.2(now) 🟡
     * glob-watcher@5.0.5 (latest)
-      * chokidar@2.1.8 (deprecated): watch filesystem directories for events - (for win, linux, mac)
-         * fsevents@1.2.13 (deprecated) - (for mac)
+      * chokidar@2.1.8 (deprecated:x:): watch filesystem directories for events - (for win, linux, mac)
+         * fsevents@1.2.13 (deprecated:x:) - (for mac)
 * gulp-concat@2.5.2 ==:up:==> @2.6.1 (now) 🟤
-    * gulp-util@3.0.8 (deprecated:negative_squared_cross_mark:)
+    * gulp-util@3.0.8 (deprecated:x:)
 * gulp-uglify@1.2.0 ==:up:==> @3.0.2 (now) 🟤
-    * gulp-util@3.0.8 (deprecated)
+    * gulp-util@3.0.8 (deprecated:x:)
 * gulp-sourcemaps@1.5.2 ==:up:==> @3.0.0 (now) 🟤
-    * natives@1.1.6 (deprecated:negative_squared_cross_mark:)
-    * urix@0.1.0 (deprecated:negative_squared_cross_mark:)
-    * resolve-url@0.2.1 (deprecated:negative_squared_cross_mark:)
-* ejs@0.8.4(deprecated) ==:up:==> @3.1.6 (now) 🟫
+    * natives@1.1.6 (deprecated:x:)
+    * urix@0.1.0 (deprecated::x:)
+    * resolve-url@0.2.1 (deprecated:x:)
+* ejs@0.8.4(deprecated:x:) ==:up:==> @3.1.6 (now) 🟫
 
 ### *(ii)* vulnerable package(脆弱なパッケージ)
 
