@@ -39,7 +39,7 @@ npm package manage(node_modules)
 |gulp-rename|1.2.2(update)|1.2.2|2.0.0|2.0.0|
 |gulp-sourcemaps|1.5.2(update)|1.12.1|3.0.0|3.0.0|
 |gulp-uglify|1.2.0(update)|1.5.4|3.0.2|3.0.2|
-|~~gulp-uglifyjs~~|0.6.2(delete)|0.6.2|-|0.6.2|
+|```diff -~~gulp-uglifyjs~~```|0.6.2(delete)|0.6.2|-|0.6.2|
 <br>
 
 ## Deprecated Packages(廃棄予定のパッケージ)
