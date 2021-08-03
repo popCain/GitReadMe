@@ -57,6 +57,7 @@ npm package manage(node_modules)
 
 |bit|narwhal|xmljson|
 |:---:|:---:|:---:|
+<br>
 
 2.Deprecated Packages(廃棄予定のパッケージ)
 ---
