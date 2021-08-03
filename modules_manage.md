@@ -86,6 +86,8 @@ npm package manage(node_modules)
 
 ### *(ii)* vulnerable package(脆弱なパッケージ)
 
+[**[Vulnerability DB]**](https://snyk.io/vuln?type=npm): Detailed information and remediation guidance for known vulnerabilities.
+
 * csv@0.4.6 ==:up:==> @5.5.0 ⭕ 
    * resolve 1 vulnerability(High)
 * jsrsasign@0.0.3 ==:up:==> @10.3.0(>=8.0.13) ⭕
