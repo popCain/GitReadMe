@@ -58,8 +58,10 @@ npm package manage(node_modules)
 |:---:|:---:|:---:|
 <br>
 
-2.Deprecated Packages(廃棄予定のパッケージ)
+2.modules analysis
 ---
+
+### Deprecated Packages(廃棄予定のパッケージ)
 
 [NPMGraph](https://npmgraph.js.org/): Site to show dependency graph of npm modules(ex. 'express@3' ).
 
