@@ -33,12 +33,12 @@ npm package manage(node_modules)
 |run-sequence|1.1.0(keep)|1.1.0|1.1.0|2.2.1|
 |underscore|1.13.1(keep)|1.13.1|1.13.1|1.13.1|
 |🟡 gulp|3.9.0(update)|4.0.2|4.0.2|4.0.2|
-|gulp-concat|2.5.2(update)|2.5.2|2.6.1|2.6.1|
+|🟣 gulp-concat|2.5.2(update)|2.5.2|2.6.1|2.6.1|
 |🔴 ~~gulp-minify-css~~|1.1.1(delete)|1.1.1|-|1.2.4|
 |🟢 gulp-clean-css|-(new add)|-|4.3.0|4.3.0|
 |gulp-rename|1.2.2(update)|1.2.2|2.0.0|2.0.0|
-|gulp-sourcemaps|1.5.2(update)|1.12.1|3.0.0|3.0.0|
-|gulp-uglify|1.2.0(update)|1.5.4|3.0.2|3.0.2|
+|🟣 gulp-sourcemaps|1.5.2(update)|1.12.1|3.0.0|3.0.0|
+|🟣 gulp-uglify|1.2.0(update)|1.5.4|3.0.2|3.0.2|
 |🔴 ~~gulp-uglifyjs~~|0.6.2(delete)|0.6.2|-|0.6.2|
 <br>
 
