@@ -65,10 +65,10 @@ npm package manage(node_modules)
 
 [**[NPMGraph]**](https://npmgraph.js.org/): Site to show dependency graph of npm modules(ex. 'express@3' ).
 
-* 🟡 express@3.21.2(now)   
+* express@3.21.2(now) 🟡   
     * connect@2.30.2 (deprecated)
     * mkdirp@0.5.1 (deprecated)    
-* gulp@4.0.2(now)
+* gulp@4.0.2(now) 🟡
     * glob-watcher@5.0.5 (latest)
       * chokidar@2.1.8 (deprecated): watch filesystem directories for events - (for win, linux, mac)
          * fsevents@1.2.13 (deprecated) - (for mac)
