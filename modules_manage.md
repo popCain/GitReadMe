@@ -89,7 +89,7 @@ npm package manage(node_modules)
 [**[Vulnerability DB]**](https://snyk.io/vuln?type=npm): Detailed information and remediation guidance for known vulnerabilities.
 
 ```bash
-npm audit
+npm audit # 
 ```
 
 * csv@0.4.6 ==:up:==> @5.5.0 ⭕ 
