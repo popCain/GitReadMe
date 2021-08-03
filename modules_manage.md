@@ -87,7 +87,7 @@ npm package manage(node_modules)
 ### *(ii)* vulnerable package(脆弱なパッケージ)
 
 * csv@0.4.6 ==:up:==> @5.5.0 ⭕ 
-   * resolve 1 vulnerability(High))
+   * resolve 1 vulnerability(High)
 * jsrsasign@0.0.3 ==:up:==> @10.3.0 ⭕
    * Timing Attack(High)
    * RSA signature validation vulnerability(Critical)
