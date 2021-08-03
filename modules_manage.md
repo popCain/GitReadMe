@@ -58,10 +58,10 @@ npm package manage(node_modules)
 |:---:|:---:|:---:|
 <br>
 
-2.modules analysis
+2.node_modules analysis
 ---
 
-### Deprecated Packages(廃棄予定のパッケージ)
+### *(i)* Deprecated Packages(廃棄予定のパッケージ)
 
 [NPMGraph](https://npmgraph.js.org/): Site to show dependency graph of npm modules(ex. 'express@3' ).
 
@@ -80,8 +80,8 @@ npm package manage(node_modules)
     * natives@1.1.6 (deprecated)
     * urix@0.1.0 (deprecated)
     * resolve-url@0.2.1 (deprecated)
-
-<br>
+ 
+ ### *(ii)* vulnerable package(脆弱なパッケージ)
 
 
 
