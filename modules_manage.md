@@ -1,7 +1,7 @@
 npm package manage(node_modules)
 ===
 
-1 node_modules list
+1.node_modules list
 ---
 
 ### (i)```npm install(package.json file base)```
@@ -58,7 +58,7 @@ npm package manage(node_modules)
 |bit|narwhal|xmljson|
 |:---:|:---:|:---:|
 
-2 Deprecated Packages(廃棄予定のパッケージ)
+2.Deprecated Packages(廃棄予定のパッケージ)
 ---
 
 [NPMGraph](https://npmgraph.js.org/): Site to show dependency graph of npm modules(ex. 'express@3' ).
