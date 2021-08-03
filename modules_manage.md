@@ -16,7 +16,7 @@ npm package manage(node_modules)
 |✅ crypto-js|3.1.4(keep)|3.1.4|3.1.4|4.1.1|
 |⭕ csv|0.4.6(update)|0.4.6|5.5.0|5.5.0|
 |✅ deepcopy|0.5.0(keep)|0.5.0|0.5.0|2.1.0|
-|🟤 ejs|0.8.4(deprecated)|0.8.4|3.1.6|3.1.6|
+|🟫 ejs|0.8.4(deprecated)|0.8.4|3.1.6|3.1.6|
 |✅ encoding-japanese|1.0.24(keep)|1.0.24|1.0.24|1.0.30|
 |🟡 express|3.21.2(keep)|3.3.4|3.21.2|4.17.1|
 |☑ express-mysql-session|1.3.0(update)|1.3.0|2.1.6|2.1.6|
@@ -33,12 +33,12 @@ npm package manage(node_modules)
 |✅ run-sequence|1.1.0(keep)|1.1.0|1.1.0|2.2.1|
 |✅ underscore|1.13.1(keep)|1.13.1|1.13.1|1.13.1|
 |🟡 gulp|3.9.0(update)|4.0.2|4.0.2|4.0.2|
-|🟤 gulp-concat|2.5.2(update)|2.5.2|2.6.1|2.6.1|
+|🟤 gulp-concat|2.5.2(deprecated)|2.5.2|2.6.1|2.6.1|
 |🔴 ~~gulp-minify-css~~|1.1.1(delete)|1.1.1|-|1.2.4|
 |🟢 gulp-clean-css|-(new add)|-|4.3.0|4.3.0|
 |☑ gulp-rename|1.2.2(update)|1.2.2|2.0.0|2.0.0|
-|🟤 gulp-sourcemaps|1.5.2(update)|1.12.1|3.0.0|3.0.0|
-|🟤 gulp-uglify|1.2.0(update)|1.5.4|3.0.2|3.0.2|
+|🟤 gulp-sourcemaps|1.5.2(deprecated)|1.12.1|3.0.0|3.0.0|
+|🟤 gulp-uglify|1.2.0(deprecated)|1.5.4|3.0.2|3.0.2|
 |🔴 ~~gulp-uglifyjs~~|0.6.2(delete)|0.6.2|-|0.6.2|
 <br>
 
