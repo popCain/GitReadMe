@@ -6,9 +6,9 @@ npm package manage(node_modules)
 
 |モジュール名|`SSL古いバージョン`|成田バージョン|`SSL新しいバージョン`|最新バージョン|
 |:---|:---:|:---:|:---:|:---:|
-|archiver|1.3.0(keep)|1.3.0|1.3.0|5.3.0|
-|async|1.5.2(keep)|1.5.2|1.5.2|3.2.0|
-|bignumber|2.0.7(not-exist)|2.0.7|1.1.0|1.1.0|
+|☑ archiver|1.3.0(keep)|1.3.0|1.3.0|5.3.0|
+|☑ async|1.5.2(keep)|1.5.2|1.5.2|3.2.0|
+|☑ bignumber|2.0.7(not-exist)|2.0.7|1.1.0|1.1.0|
 |cheerio|0.22.0(keep)|0.22.0|0.22.0|1.0.0|
 |chokidar|1.7.0(deprecated)|1.7.0|3.5.2|3.5.2|
 |connect-flash|0.1.1(keep)|0.1.1|0.1.1|0.1.1|
