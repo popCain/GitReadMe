@@ -41,6 +41,7 @@ npm package manage(node_modules)
 |🟤 gulp-uglify|1.2.0(deprecated)|1.5.4|3.0.2|3.0.2|
 |🔴 ~~gulp-uglifyjs~~|0.6.2(delete)|0.6.2|-|0.6.2|
 <br>
+
 **Note:** ✅ 
 
 ## Deprecated Packages(廃棄予定のパッケージ)
