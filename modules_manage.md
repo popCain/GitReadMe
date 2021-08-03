@@ -43,7 +43,7 @@ npm package manage(node_modules)
 |🔴 ~~gulp-uglifyjs~~|0.6.2(delete)|0.6.2|-|0.6.2|
 <br>
 
-**Note:** ✅ - 同じバージョンのまま | 🔴 - 削除　| 🟢 - 追加　| 🟤 - アップデート（内部依存モジュール廃棄の予定）| 🟫 - アップデート（自分自身廃棄の予定）
+**Note:** ✅ - 同じバージョンのまま | 🔴 - 削除　| 🟢 - 追加　|<br> 🟤 - アップデート（内部依存モジュール廃棄の予定）| 🟫 - アップデート（自分自身廃棄の予定）
 
 ## Deprecated Packages(廃棄予定のパッケージ)
 [NPMGraph](https://npmgraph.js.org/): Site to show dependency graph of npm modules(ex. 'express@3' ).
