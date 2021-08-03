@@ -21,8 +21,8 @@ npm package manage(node_modules)
 |express|3.21.2(keep)|3.3.4|3.21.2|4.17.1|
 |express-mysql-session|1.3.0(update)|1.3.0|2.1.6|2.1.6|
 |express-session|1.17.1(update)|1.17.1|1.17.2|1.17.2|
-|~~jade~~|0.34.1(delete)|0.34.1|-|1.11.0|
-|pug|-(new add)|-|3.0.2|3.0.2|
+|🔴 ~~jade~~|0.34.1(delete)|0.34.1|-|1.11.0|
+|🟢 pug|-(new add)|-|3.0.2|3.0.2|
 |jconv|0.1.5(keep)|0.1.5|0.1.5|0.1.5|
 |jsrsasign|0.0.3(update)|0.0.3|10.3.0|10.3.0|
 |log4js|0.6.26(keep)|0.6.26|0.6.26|6.3.0|
@@ -34,8 +34,8 @@ npm package manage(node_modules)
 |underscore|1.13.1(keep)|1.13.1|1.13.1|1.13.1|
 |gulp|3.9.0(update)|4.0.2|4.0.2|4.0.2|
 |gulp-concat|2.5.2(update)|2.5.2|2.6.1|2.6.1|
-|~~gulp-minify-css~~|1.1.1(delete)|1.1.1|-|1.2.4|
-|gulp-clean-css|-(new add)|-|4.3.0|4.3.0|
+|🔴 ~~gulp-minify-css~~|1.1.1(delete)|1.1.1|-|1.2.4|
+|🟢 gulp-clean-css|-(new add)|-|4.3.0|4.3.0|
 |gulp-rename|1.2.2(update)|1.2.2|2.0.0|2.0.0|
 |gulp-sourcemaps|1.5.2(update)|1.12.1|3.0.0|3.0.0|
 |gulp-uglify|1.2.0(update)|1.5.4|3.0.2|3.0.2|
