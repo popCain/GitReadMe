@@ -81,6 +81,8 @@ npm package manage(node_modules)
     * urix@0.1.0 (deprecated::x:)
     * resolve-url@0.2.1 (deprecated:x:)
 * ejs@0.8.4(deprecated:x:) ==:up:==> @3.1.6 (now) 🟫
+* jade(deprecated:x:) ==replace==> pug@3.0.2
+* gulp-minify-css(deprecated:x:) ==replace==> gulp-clean-css@4.3.0
 
 ### *(ii)* vulnerable package(脆弱なパッケージ)
 
