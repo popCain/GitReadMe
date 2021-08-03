@@ -4,7 +4,7 @@ npm package manage(node_modules)
 1 node_modules list
 ---
 
-###   1. ```npm install(package.json file base)```
+### ```(i) npm install(package.json file base)```
 <br>
 
 |モジュール名|`SSL古いバージョン`|成田バージョン|`SSL新しいバージョン`|最新バージョン|
@@ -53,7 +53,7 @@ npm package manage(node_modules)
 >  🟡 - 注意(deprecated warning)         
 <br>
 
-### ```copy custom(custom modules)```　　
+### ```(ii) copy custom(custom modules)```　　
 
 |bit|narwhal|xmljson|
 |:---:|:---:|:---:|
