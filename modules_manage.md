@@ -52,7 +52,7 @@ npm package manage(node_modules)
 >  ☑ - アップデート(しなくても良い）                  
 >  🟡 - 注意(deprecated warning)         
 
-## copy custom　　
+## ```copy custom```　　
 
 |bit|narwhal|xmljson|
 |:---:|:---:|:---:|
