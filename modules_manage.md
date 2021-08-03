@@ -73,13 +73,13 @@ npm package manage(node_modules)
       * chokidar@2.1.8 (deprecated): watch filesystem directories for events - (for win, linux, mac)
          * fsevents@1.2.13 (deprecated) - (for mac)
 * gulp-concat@2.5.2 ==:up:==> @2.6.1 (now) 🟤
-    * gulp-util@3.0.8 (deprecated)
+    * gulp-util@3.0.8 (deprecated:negative_squared_cross_mark:)
 * gulp-uglify@1.2.0 ==:up:==> @3.0.2 (now) 🟤
     * gulp-util@3.0.8 (deprecated)
 * gulp-sourcemaps@1.5.2 ==:up:==> @3.0.0 (now) 🟤
-    * natives@1.1.6 (deprecated)
-    * urix@0.1.0 (deprecated)
-    * resolve-url@0.2.1 (deprecated)
+    * natives@1.1.6 (deprecated:negative_squared_cross_mark:)
+    * urix@0.1.0 (deprecated:negative_squared_cross_mark:)
+    * resolve-url@0.2.1 (deprecated:negative_squared_cross_mark:)
 * ejs@0.8.4(deprecated) ==:up:==> @3.1.6 (now) 🟫
 
 ### *(ii)* vulnerable package(脆弱なパッケージ)
