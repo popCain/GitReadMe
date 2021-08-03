@@ -3,7 +3,7 @@ npm package manage(node_modules)
 
 # 1. node_modules list
 
-## ```🔘 npm install```
+## ```npm install```
 <br>
 
 |モジュール名|`SSL古いバージョン`|成田バージョン|`SSL新しいバージョン`|最新バージョン|
@@ -52,6 +52,10 @@ npm package manage(node_modules)
 >  ☑ - アップデート(しなくても良い）                  
 >  🟡 - 注意(deprecated warning)         
 
+## copy custom　　
+
+|bit|narwhal|xmljson|
+|:---:|:---:|:---:|
 
 ## Deprecated Packages(廃棄予定のパッケージ)
 [NPMGraph](https://npmgraph.js.org/): Site to show dependency graph of npm modules(ex. 'express@3' ).
@@ -74,8 +78,5 @@ npm package manage(node_modules)
 
 <br>
 
-## copy custom　　
 
-|bit|narwhal|xmljson|
-|:---:|:---:|:---:|
 
