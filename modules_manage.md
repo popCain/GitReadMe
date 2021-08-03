@@ -14,7 +14,7 @@ npm package manage(node_modules)
 |✅ connect-flash|0.1.1(keep)|0.1.1|0.1.1|0.1.1|
 |✅ cron|1.0.5(keep)|1.0.5|1.0.5|1.8.2|
 |✅ crypto-js|3.1.4(keep)|3.1.4|3.1.4|4.1.1|
-|csv|0.4.6(update)|0.4.6|5.5.0|5.5.0|
+|⭕ csv|0.4.6(update)|0.4.6|5.5.0|5.5.0|
 |✅ deepcopy|0.5.0(keep)|0.5.0|0.5.0|2.1.0|
 |ejs|0.8.4(deprecated)|0.8.4|3.1.6|3.1.6|
 |✅ encoding-japanese|1.0.24(keep)|1.0.24|1.0.24|1.0.30|
@@ -24,7 +24,7 @@ npm package manage(node_modules)
 |🔴 ~~jade~~|0.34.1(delete)|0.34.1|-|1.11.0|
 |🟢 pug|-(new add)|-|3.0.2|3.0.2|
 |✅ jconv|0.1.5(keep)|0.1.5|0.1.5|0.1.5|
-|jsrsasign|0.0.3(update)|0.0.3|10.3.0|10.3.0|
+|⭕ jsrsasign|0.0.3(update)|0.0.3|10.3.0|10.3.0|
 |✅ log4js|0.6.26(keep)|0.6.26|0.6.26|6.3.0|
 |✅ mysql|2.18.1(keep)|2.18.1|2.18.1|2.18.1|
 |✅ opts|1.2.2(keep)|1.2.2|1.2.2|2.0.2|
