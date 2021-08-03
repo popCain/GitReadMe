@@ -1,12 +1,10 @@
 npm package manage(node_modules)
 ===
 
-
-1. node_modules list
+1 node_modules list
 ---
 
-
-## ```npm install(package.json file base)```
+### ```npm install(package.json file base)```
 <br>
 
 |モジュール名|`SSL古いバージョン`|成田バージョン|`SSL新しいバージョン`|最新バージョン|
@@ -55,12 +53,14 @@ npm package manage(node_modules)
 >  🟡 - 注意(deprecated warning)         
 <br>
 
-## ```copy custom(custom modules)```　　
+### ```copy custom(custom modules)```　　
 
 |bit|narwhal|xmljson|
 |:---:|:---:|:---:|
 
-## Deprecated Packages(廃棄予定のパッケージ)
+2 Deprecated Packages(廃棄予定のパッケージ)
+---
+
 [NPMGraph](https://npmgraph.js.org/): Site to show dependency graph of npm modules(ex. 'express@3' ).
 
 * express@3.21.2(now)   
