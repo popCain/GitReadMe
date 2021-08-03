@@ -19,8 +19,8 @@ npm package manage(node_modules)
 |ejs|0.8.4(deprecated)|0.8.4|3.1.6|3.1.6|
 |✅ encoding-japanese|1.0.24(keep)|1.0.24|1.0.24|1.0.30|
 |🟡 express|3.21.2(keep)|3.3.4|3.21.2|4.17.1|
-|express-mysql-session|1.3.0(update)|1.3.0|2.1.6|2.1.6|
-|express-session|1.17.1(update)|1.17.1|1.17.2|1.17.2|
+|☑ express-mysql-session|1.3.0(update)|1.3.0|2.1.6|2.1.6|
+|☑ express-session|1.17.1(update)|1.17.1|1.17.2|1.17.2|
 |🔴 ~~jade~~|0.34.1(delete)|0.34.1|-|1.11.0|
 |🟢 pug|-(new add)|-|3.0.2|3.0.2|
 |✅ jconv|0.1.5(keep)|0.1.5|0.1.5|0.1.5|
@@ -36,7 +36,7 @@ npm package manage(node_modules)
 |🟣 gulp-concat|2.5.2(update)|2.5.2|2.6.1|2.6.1|
 |🔴 ~~gulp-minify-css~~|1.1.1(delete)|1.1.1|-|1.2.4|
 |🟢 gulp-clean-css|-(new add)|-|4.3.0|4.3.0|
-|gulp-rename|1.2.2(update)|1.2.2|2.0.0|2.0.0|
+|☑ gulp-rename|1.2.2(update)|1.2.2|2.0.0|2.0.0|
 |🟣 gulp-sourcemaps|1.5.2(update)|1.12.1|3.0.0|3.0.0|
 |🟣 gulp-uglify|1.2.0(update)|1.5.4|3.0.2|3.0.2|
 |🔴 ~~gulp-uglifyjs~~|0.6.2(delete)|0.6.2|-|0.6.2|
