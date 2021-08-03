@@ -74,13 +74,13 @@ npm package manage(node_modules)
          * fsevents@1.2.13 (deprecated) - (for mac)
 * gulp-concat@2.5.2 ==:up:==> @2.6.1 (now) 🟤
     * gulp-util@3.0.8 (deprecated)
-* gulp-uglify@1.2.0 ==update==> @3.0.2 (now) 🟤
+* gulp-uglify@1.2.0 ==:up:==> @3.0.2 (now) 🟤
     * gulp-util@3.0.8 (deprecated)
-* gulp-sourcemaps@1.5.2 ==update==> @3.0.0 (now) 🟤
+* gulp-sourcemaps@1.5.2 ==:up:==> @3.0.0 (now) 🟤
     * natives@1.1.6 (deprecated)
     * urix@0.1.0 (deprecated)
     * resolve-url@0.2.1 (deprecated)
-* ejs@0.8.4(deprecated) ==update==> @3.1.6 (now) 🟫
+* ejs@0.8.4(deprecated) ==:up:==> @3.1.6 (now) 🟫
 
 ### *(ii)* vulnerable package(脆弱なパッケージ)
 
