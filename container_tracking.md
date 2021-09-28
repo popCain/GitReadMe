@@ -21,6 +21,17 @@
 
 ## できること:
 
+* index page(ブッキング番号リスト`エクセル・ファイル（ex. booking_No_list.xlsx）`をアップロード)
+
   <img src='img/index.png'>
+
+* ブッキング番号のリンクリストを作る(各番号は[OOCL船会社追跡サイト](https://www.oocl.com/jpn/Pages/default.aspx)にアクセスでき)
+  > **Note:** 第一回目にアクセスする時のみ、パズルの手作業が必要
+
+  <img src='img/booking_No_list.png'>
   
+* ブッキング番号の追跡情報  
+
+  <img src='img/booking_No_info.png'>
+
 # 検証-Container No. Tracking
