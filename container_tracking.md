@@ -35,3 +35,15 @@
   <img src='img/booking_No_info.png'>
 
 # 検証-Container No. Tracking
+<br>
+
+> **Note:** [MSCコンテナ追跡サイト](https://www.msc.com/track-a-shipment?agencyPath=gbr)にアクセスし、ウェッブ・クローリングを行う。
+
+## 問題点：
+
+* 同一のコンテナ番号を頻繁に上記のサイトにアクセスする場合、ブラックリストに載る可能性がある。
+
+## できること：
+
+* index page(コンテナ番号リスト`エクセル・ファイル（ex. container_No_list.xlsx）`をアップロード)
+
