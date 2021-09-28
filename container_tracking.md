@@ -51,4 +51,4 @@
   
 * 各コンテナ番号の追跡情報
 
-  <img src='img/container_No_info'>
+  <img src='img/container_No_info.png'>
