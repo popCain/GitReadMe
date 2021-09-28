@@ -48,3 +48,7 @@
 * index page(コンテナ番号リスト`エクセル・ファイル（ex. container_No_list.xlsx）`をアップロード)
 
   <img src='img/index_container.png'>
+  
+* 各コンテナ番号の追跡情報
+
+  <img src='img/container_No_info'>
