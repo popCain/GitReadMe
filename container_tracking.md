@@ -52,3 +52,17 @@
 * 各コンテナ番号の追跡情報
 
   <img src='img/container_No_info.png'>
+
+* コンテナ追跡情報のまとめ（動き情報表示・ダウンロードできるエクセルファイル）
+
+|No.|POD|ETA|POL|ETD|Latest Movement|
+|---|---|---|---|---|---|
+|MEDU8686667|BUSAN, KR|02/10/2021|AARHUS, DK|04/08/2021|BUSAN, KR - Estimated Time of Arrival - 02/10/2021|
+|MEDU8878490|MATSUYAMA, JP|17/09/2021|AARHUS, DK|14/07/2021|MATSUYAMA, JP - Empty received at CY - 24/09/2021|
+|MEDU8811202|||||BUSAN, KR - Full Intended Transshipment - 03/10/2021|
+|CXDU2180221|KOBE, JP|17/09/2021|AARHUS, DK|22/07/2021|KOBE, JP - Empty received at CY - 28/09/2021|
+|FFAU3751939|HAKATA, FUKUOKA, JP|23/09/2021|AARHUS, DK|22/07/2021|HAKATA, FUKUOKA, JP - Empty received at CY - 28/09/2021|
+|MSDU4206509|||||BUSAN, KR - Full Intended Transshipment - 12/10/2021|
+|MSCU4720387|HAKATA, FUKUOKA, JP|14/09/2021|AARHUS, DK|14/07/2021|HAKATA, FUKUOKA, JP - Empty received at CY - 21/09/2021|
+|FCIU8333712|BUSAN, KR|18/10/2021|AARHUS, DK|01/09/2021|BUSAN, KR - Estimated Time of Arrival - 18/10/2021|
+|MSDU4221648|HAKATA, FUKUOKA, JP|06/09/2021|AARHUS, DK|08/07/2021|HAKATA, FUKUOKA, JP - Empty received at CY - 21/09/2021|
